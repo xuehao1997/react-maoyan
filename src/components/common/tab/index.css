@@ -1,0 +1,11 @@
+header {
+  height: .505rem;
+  background: red;
+  text-align: center;
+}
+
+header span {
+  color: white;
+  font-size: .18rem;
+  line-height: .505rem;
+}

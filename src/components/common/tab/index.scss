@@ -1,0 +1,12 @@
+header {
+    height:.505rem;
+    background: red;
+    text-align: center;
+
+    span {
+        color: white;
+        font-size: .18rem;
+        //设置行高，上下居中
+        line-height: .505rem;
+    }
+}

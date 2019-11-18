@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  height: 100%;
+  overflow: auto;
+}
+
+ul li {
+  padding: .1rem;
+  display: flex;
+}
+
+ul li img {
+  width: .64rem;
+  height: .90rem;
+}
+
+ul li div {
+  padding: 0 .05rem 0;
+}
+
+ul li div p {
+  color: #333;
+  font-weight: 700;
+  font-size: .17rem;
+  flex-shrink: 1;
+}
+
+ul li div i {
+  color: #666;
+  font-size: .13rem;
+}
+
+ul li div span {
+  color: #666;
+  font-size: .13rem;
+}
+
+ul li div h6 {
+  color: #666;
+  font-size: .13rem;
+}
